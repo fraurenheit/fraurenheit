@@ -18,9 +18,8 @@ from Turkey/Istanbul
 
 # 💫 About Me:
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88f67996-1f38-4399-9a0d-c056f7489d48/d9o0pzk-fb3d92ec-0c06-4910-ad91-bf2b3e5729f4.png/v1/fill/w_600,h_801,strp/that_girl_with_the_undercut_by_klautt_d9o0pzk-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAxIiwicGF0aCI6IlwvZlwvODhmNjc5OTYtMWYzOC00Mzk5LTlhMGQtYzA1NmY3NDg5ZDQ4XC9kOW8wcHprLWZiM2Q5MmVjLTBjMDYtNDkxMC1hZDkxLWJmMmIzZTU3MjlmNC5wbmciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.c28c-p12yTgiHBCt6BfEUStumLKSHr5Rz76zzr0UXhg" width="100">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88f67996-1f38-4399-9a0d-c056f7489d48/d9o0pzk-fb3d92ec-0c06-4910-ad91-bf2b3e5729f4.png/v1/fill/w_600,h_801,strp/that_girl_with_the_undercut_by_klautt_d9o0pzk-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAxIiwicGF0aCI6IlwvZlwvODhmNjc5OTYtMWYzOC00Mzk5LTlhMGQtYzA1NmY3NDg5ZDQ4XC9kOW8wcHprLWZiM2Q5MmVjLTBjMDYtNDkxMC1hZDkxLWJmMmIzZTU3MjlmNC5wbmciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.c28c-p12yTgiHBCt6BfEUStumLKSHr5Rz76zzr0UXhg" width="200">
 
-<img src="https://www.google.com/search?q=that_girl_with_the_undercut_by_klautt_&sxsrf=ALiCzsaESfRRjCvvvlyhFp4MfAggsTwqbg:1663433986509&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiK1v2-ppz6AhXpRvEDHS0sCUoQ_AUoAnoECAIQBA&biw=1366&bih=617&dpr=1#imgrc=zdZy8lnnhf1iPM" width="48">
 
 
 - 👩‍💻 I’m currently working on **Javascript & React projects.**
