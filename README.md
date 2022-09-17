@@ -17,8 +17,8 @@ from Turkey/Istanbul
 
 
 # 💫 About Me:
+![that_girl_with_the_undercut_by_klautt_d9o0pzk-fullview](https://user-images.githubusercontent.com/66425078/190868020-9164aa86-eacb-478b-b080-d579ffa59e4b.png){:height="36px" width="36px"}
 
-![that_girl_with_the_undercut_by_klautt_d9o0pzk-fullview](https://user-images.githubusercontent.com/66425078/190867763-bfe7fc69-23fb-4a2c-b1b6-2046417d527d.png width="300" height="300")
 
 - 👩‍💻 I’m currently working on **Javascript & React projects.**
 
@@ -31,8 +31,6 @@ from Turkey/Istanbul
 - 📫 You can reach me **You can reach me on social media @Fraurenheit or send me an e-mail: iremmbuyukcingil@gmail.com**
 
 - 🚀 I feel ready to **work as a remote, intern, or part-time Front End Developer.**
-
-![Uploading oi2rwsde00xo9ou6jwsl.gif…]()
 
 
 <br> <br> <br>
