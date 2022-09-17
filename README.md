@@ -17,7 +17,7 @@ from Turkey/Istanbul
 
 
 # 💫 About Me:
-![that_girl_with_the_undercut_by_klautt_d9o0pzk-fullview](https://user-images.githubusercontent.com/66425078/190868020-9164aa86-eacb-478b-b080-d579ffa59e4b.png){:height="36px" width="36px"}
+<img src="https://www.google.com/search?q=that_girl_with_the_undercut_by_klautt_&sxsrf=ALiCzsaESfRRjCvvvlyhFp4MfAggsTwqbg:1663433986509&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiK1v2-ppz6AhXpRvEDHS0sCUoQ_AUoAnoECAIQBA&biw=1366&bih=617&dpr=1#imgrc=zdZy8lnnhf1iPM" width="48">
 
 
 - 👩‍💻 I’m currently working on **Javascript & React projects.**
