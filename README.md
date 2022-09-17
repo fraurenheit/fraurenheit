@@ -1,4 +1,4 @@
-# Hey there, :wave: 
+<h1 align="center">Hey there 👋, I'm @Fraurenheit :wave:</h1>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
