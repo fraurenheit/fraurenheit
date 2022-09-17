@@ -47,4 +47,5 @@ from Turkey/Istanbul
 [<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fraurenheit&show_icons=true&locale=en" alt="fraurenheit" /></p>](https://github-readme-stats.vercel.app/api/top-langs/?username=fraurenheit&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ![İrem's Github Stats](https://github-readme-stats.vercel.app/api?username=fraurenheit&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fraurenheit&layout=compact)](https://github.com/fraurenheit/github-readme-stats)
 
