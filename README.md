@@ -32,7 +32,7 @@ from Turkey/Istanbul
 <a href="https://linkedin.com/in/irembuyukcingil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irembuyukcingil" height="30" width="40" /></a>
 <a href="https://instagram.com/fraurenheit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fraurenheit" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/fraurenheit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fraurenheit" height="30" width="40" /></a>
-<a href="https://www.codewars.com/users/fraurenheit" target=blank>img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg'," alt='codewars' height="30" width="40"/></a>
+<a href="https://www.codewars.com/users/fraurenheit" img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='40'>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
