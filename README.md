@@ -1,4 +1,4 @@
-# Hey there :wave:
+# Hey there, :wave: 
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -8,11 +8,6 @@
 
 from Turkey/Istanbul
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p><h1 align="center">Hi 👋, I'm @Fraurenheit</h1>
-from Turkey/Istanbul
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fraurenheit&label=Profile%20views&color=0e75b6&style=flat" alt="fraurenheit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fraurenheit" alt="fraurenheit" /></a> </p>
@@ -28,6 +23,11 @@ from Turkey/Istanbul
 - 📫 You can reach me **You can reach me on social media @Fraurenheit or send me an e-mail: iremmbuyukcingil@gmail.com**
 
 - 🚀 I feel ready to **work as a remote, intern, or part-time Front End Developer.**
+
+<p align="center"> 
+  Visitor count<br>
+   <img src="https://profile-counter.glitch.me/ezgikarali4/count.svg" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
