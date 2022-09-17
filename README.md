@@ -9,8 +9,8 @@
 from Turkey/Istanbul
 
 <p align="center"> 
-  Visitor Count ⭐ <br>
-   <img src="https://profile-counter.glitch.me/ezgikarali4/count.svg" />
+ ⭐ Visitor Count ⭐ <br>
+   <img src="https://profile-counter.glitch.me/fraurenheit/count.svg" />
 </p>
 
 # 👩‍💻 About Me:
