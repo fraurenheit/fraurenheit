@@ -44,5 +44,7 @@ from Turkey/Istanbul
 
 <hr />
 [fraurenheit's Stats](https://github-readme-stats.vercel.app/api?username=fraurenheit&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) <br>
-![fraurenheit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fraurenheit&theme=tokyonight&hide_border=true) <br>
+
+[![fraurenheit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fraurenheit&theme=tokyonight&hide_border=true) <br>
+
 ![fraurenheit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fraurenheit&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
