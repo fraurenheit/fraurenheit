@@ -9,7 +9,7 @@
 from Turkey/Istanbul
 
 <p align="center"> 
-  Visitor count<br>
+  Visitor Count ⭐ <br>
    <img src="https://profile-counter.glitch.me/ezgikarali4/count.svg" />
 </p>
 
