@@ -62,6 +62,8 @@ from Turkey/Istanbul
 
 ![oi2rwsde00xo9ou6jwsl](https://user-images.githubusercontent.com/66425078/190868614-0acd9b63-15fd-4b4d-8123-0c8d2ce320c1.gif)
 
+<img src =https://user-images.githubusercontent.com/66425078/190868614-0acd9b63-15fd-4b4d-8123-0c8d2ce320c1.gif>
+
 
 
 
