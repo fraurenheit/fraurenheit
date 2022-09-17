@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm @Fraurenheit</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fraurenheit&label=Profile%20views&color=0e75b6&style=flat" alt="fraurenheit" /> </p>
 
@@ -13,7 +11,7 @@
 
 - 🏆 I have experience in **HTML5,CSS3,Bootstrap3 & Bootstrap4.**
 
-- 📫 You can reach me **You can reach me on social media @Fraurenheit or send me an e-mail: iremmbuyukcingil@gmail.com You can reach me on social media @Fraurenheit or send me an email:iremmbuyukcingil@gmail.com**
+- 📫 You can reach me **You can reach me on social media @Fraurenheit or send me an e-mail: iremmbuyukcingil@gmail.com**
 
 - 🚀 I feel ready to **work as a remote, intern, or part-time Front End Developer.**
 
