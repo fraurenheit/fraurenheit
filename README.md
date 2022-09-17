@@ -11,7 +11,7 @@ from Turkey/Istanbul
 <p align="center"> 
  ⭐ Visitor Count ⭐ <br><br> 
     
-   <img src="https://profile-counter.glitch.me/fraurenheit/count.svg" />
+   <img src="https://profile-counter.glitch.me/fraurenheit/count.svg width="300" height="300"" />
 </p>
 
 
