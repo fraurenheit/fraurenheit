@@ -18,7 +18,7 @@ from Turkey/Istanbul
 
 # 💫 About Me:
 
-<img align="left" width="170" height="250" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88f67996-1f38-4399-9a0d-c056f7489d48/d9o0pzk-fb3d92ec-0c06-4910-ad91-bf2b3e5729f4.png/v1/fill/w_600,h_801,strp/that_girl_with_the_undercut_by_klautt_d9o0pzk-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAxIiwicGF0aCI6IlwvZlwvODhmNjc5OTYtMWYzOC00Mzk5LTlhMGQtYzA1NmY3NDg5ZDQ4XC9kOW8wcHprLWZiM2Q5MmVjLTBjMDYtNDkxMC1hZDkxLWJmMmIzZTU3MjlmNC5wbmciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.c28c-p12yTgiHBCt6BfEUStumLKSHr5Rz76zzr0UXhg">
+<img align="left" width="180" height="250" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88f67996-1f38-4399-9a0d-c056f7489d48/d9o0pzk-fb3d92ec-0c06-4910-ad91-bf2b3e5729f4.png/v1/fill/w_600,h_801,strp/that_girl_with_the_undercut_by_klautt_d9o0pzk-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAxIiwicGF0aCI6IlwvZlwvODhmNjc5OTYtMWYzOC00Mzk5LTlhMGQtYzA1NmY3NDg5ZDQ4XC9kOW8wcHprLWZiM2Q5MmVjLTBjMDYtNDkxMC1hZDkxLWJmMmIzZTU3MjlmNC5wbmciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.c28c-p12yTgiHBCt6BfEUStumLKSHr5Rz76zzr0UXhg">
 
 - 👩‍💻 I’m currently working on **Javascript & React projects.**
 
@@ -62,7 +62,6 @@ from Turkey/Istanbul
 
 ![oi2rwsde00xo9ou6jwsl](https://user-images.githubusercontent.com/66425078/190868614-0acd9b63-15fd-4b4d-8123-0c8d2ce320c1.gif)
 
-<img src =https://user-images.githubusercontent.com/66425078/190868614-0acd9b63-15fd-4b4d-8123-0c8d2ce320c1.gif>
 
 
 
