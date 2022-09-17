@@ -27,6 +27,7 @@ from Turkey/Istanbul
 
 - 🚀 I feel ready to **work as a remote, intern, or part-time Front End Developer.**
 
+<br> <br>
 
 # 🌐 Connect with me:
 
