@@ -1,6 +1,12 @@
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I+Love+Coding!;@Fraurenheit&center=true&size=25">
+  </a>
+</h1>
+
+from Turkey/Istanbul
 
 <p align="center"> 
   Visitor count<br>
