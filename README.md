@@ -27,7 +27,6 @@ from Turkey/Istanbul
 
 - 🚀 I feel ready to **work as a remote, intern, or part-time Front End Developer.**
 
-<hr />
 
 <h2 align="left">Connect with me:</h3>
 <p align="left">
