@@ -11,14 +11,14 @@ from Turkey/Istanbul
 <p align="center"> 
  ⭐ Visitor Count ⭐ <br><br> 
     
-   <img src="https://profile-counter.glitch.me/fraurenheit/count.svg width="300" height="300"" />
+   <img src="https://profile-counter.glitch.me/fraurenheit/count.svg" />
 </p>
 
 
 
 # 💫 About Me:
 
-![that_girl_with_the_undercut_by_klautt_d9o0pzk-fullview](https://user-images.githubusercontent.com/66425078/190867763-bfe7fc69-23fb-4a2c-b1b6-2046417d527d.png)
+![that_girl_with_the_undercut_by_klautt_d9o0pzk-fullview](https://user-images.githubusercontent.com/66425078/190867763-bfe7fc69-23fb-4a2c-b1b6-2046417d527d.png width="300" height="300")
 
 - 👩‍💻 I’m currently working on **Javascript & React projects.**
 
