@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm @Fraurenheit</h1>
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p><h1 align="center">Hi 👋, I'm @Fraurenheit</h1>
 from Turkey/Istanbul
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fraurenheit&label=Profile%20views&color=0e75b6&style=flat" alt="fraurenheit" /> </p>
 
