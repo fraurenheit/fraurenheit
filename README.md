@@ -52,9 +52,9 @@ from Turkey/Istanbul
 
 # 📈 Github Stats:
 
-![snake gif](https://github.com/fraurenheit/fraurenheit/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/fraurenheit/fraurenheit/blob/output/github-contribution-grid-snake.gif?raw=true)
+<br>
 
-<br />
 ![fraurenheit's Stats](https://github-readme-stats.vercel.app/api?username=fraurenheit&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) <br><br>
 
 ![fraurenheit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fraurenheit&theme=tokyonight&hide_border=true) <br><br>
