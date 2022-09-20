@@ -51,7 +51,8 @@ from Turkey/Istanbul
 <br> <br><br>
 
 # 📈 Github Stats:
-
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<br />
 ![fraurenheit's Stats](https://github-readme-stats.vercel.app/api?username=fraurenheit&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) <br><br>
 
 ![fraurenheit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fraurenheit&theme=tokyonight&hide_border=true) <br><br>
