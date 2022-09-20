@@ -52,6 +52,9 @@ from Turkey/Istanbul
 
 # 📈 Github Stats:
 
+![snake gif](https://raw.githubusercontent.com/fraurenheit/fraurenheit/3ed1cd8529230dfe6514c0a0c588d9b7bb7c26be/github-contribution-grid-snake.svg)
+<br><br>
+
 ![snake gif](https://github.com/fraurenheit/fraurenheit/blob/output/github-contribution-grid-snake.gif?raw=true)
 <br>
 
