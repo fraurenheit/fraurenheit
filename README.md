@@ -6,14 +6,16 @@
   </a>
 </h1>
 
-from Turkey/Istanbul
+from *Istanbul/Turkey*
+
+![snake svg](https://raw.githubusercontent.com/fraurenheit/fraurenheit/3ed1cd8529230dfe6514c0a0c588d9b7bb7c26be/github-contribution-grid-snake.svg)
+<br><br>
 
 <p align="center"> 
  ⭐ Visitor Count ⭐ <br><br> 
     
    <img src="https://profile-counter.glitch.me/fraurenheit/count.svg" />
 </p>
-
 
 
 # 💫 About Me:
@@ -52,10 +54,6 @@ from Turkey/Istanbul
 
 # 📈 Github Stats:
 
-![snake svg](https://raw.githubusercontent.com/fraurenheit/fraurenheit/3ed1cd8529230dfe6514c0a0c588d9b7bb7c26be/github-contribution-grid-snake.svg)
-<br><br>
-
-<hr/>
 
 ![fraurenheit's Stats](https://github-readme-stats.vercel.app/api?username=fraurenheit&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) <br><br>
 
