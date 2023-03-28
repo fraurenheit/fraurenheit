@@ -26,9 +26,9 @@ from *Istanbul/Turkey*
 
 - 👩‍💻 I’m currently working on a **hybrid app** that can be used in both web and mobile.
 
-- 🌱 I’m currently learning **Vue.js, Figma & Mobile App Development**
+- 🌱 I’m currently learning **Vue.js & Figma.**
 
-- 🏆 **Skills:** Mobile & Web App Development, HTML5, CSS3, Bootstrap 3&4, JavaScript, Vue 2&3, Quasar Framework, OOP, Node Basics, RESTful API, Android SDK, Gradle, Figma Basics, developing hybrid apps, responsive design 
+- 🏆 **Skills:** Mobile & Web App Development, HTML5, CSS3, Bootstrap 3&4, JavaScript, Vue 2&3, Quasar Framework, OOP, Node Basics, RESTful API, Android SDK, Gradle, Figma Basics, developing hybrid apps, responsive design. 
 
 - 📫 You can reach me on social media **@Fraurenheit or send me an e-mail: iremmbuyukcingil@gmail.com**
 
