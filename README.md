@@ -32,7 +32,7 @@ from *Istanbul/Turkey*
 
 - 📫 You can reach me on social media **@Fraurenheit or send me an e-mail: iremmbuyukcingil@gmail.com**
 
-- 🚀 I feel ready to work as a ** Full Stack Mobile & Web App Developer or Front End Developer.**
+- 🚀 I feel ready to work as **Full Stack Mobile & Web App Developer or Front End Developer.**
 
 
 <br> <br> <br>
