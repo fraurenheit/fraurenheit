@@ -6,8 +6,6 @@
   </a>
 </h1>
 
-from *Istanbul/Turkey*
-
 ![snake svg](https://raw.githubusercontent.com/fraurenheit/fraurenheit/3ed1cd8529230dfe6514c0a0c588d9b7bb7c26be/github-contribution-grid-snake.svg)
 <br><br>
 
