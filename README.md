@@ -22,15 +22,11 @@ from *Istanbul/Turkey*
 
 <img align="left" width="180" height="250" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88f67996-1f38-4399-9a0d-c056f7489d48/d9o0pzk-fb3d92ec-0c06-4910-ad91-bf2b3e5729f4.png/v1/fill/w_600,h_801,strp/that_girl_with_the_undercut_by_klautt_d9o0pzk-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAxIiwicGF0aCI6IlwvZlwvODhmNjc5OTYtMWYzOC00Mzk5LTlhMGQtYzA1NmY3NDg5ZDQ4XC9kOW8wcHprLWZiM2Q5MmVjLTBjMDYtNDkxMC1hZDkxLWJmMmIzZTU3MjlmNC5wbmciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.c28c-p12yTgiHBCt6BfEUStumLKSHr5Rz76zzr0UXhg">
 
-- 🧪 4th grade Chemistry student at **Yildiz Technical University.**
+- 👩‍💻 **Full Stack Mobile & Web App Developer & Front End Developer.**
 
-- 👩‍💻 I’m currently working on a **hybrid pwa app** that can be used in both web and mobile.
-
-- 🏆 **Skills:** Mobile & Web App Development, HTML5, CSS3, Bootstrap 3&4, JavaScript, Vue 2&3, Quasar Framework, OOP, Node Basics, RESTful API, Android SDK, Gradle, Figma Basics, developing hybrid apps, responsive design. 
+- 🏆 **Skills:** Mobile & Web App Development, HTML5, CSS3, Bootstrap 3&4, JavaScript, Vue 2&3, Quasar Framework, OOP, Node.js, serverless RESTful API, Android SDK, Gradle, Supabase, Vercel, Canva, Figma, developing hybrid apps, responsive design. 
 
 - 📫 You can reach me on social media **@Fraurenheit or send me an e-mail: iremmbuyukcingil@gmail.com**
-
-- 🚀 I feel ready to work as **Full Stack Mobile & Web App Developer or Front End Developer.**
 
 
 <br> <br> <br>
